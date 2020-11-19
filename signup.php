@@ -98,8 +98,8 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 <head>
     <meta charset="UTF-8">
     <title>Sign Up</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"> <title></title>
-    <style type="text/css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">	<title></title>
+	<style type="text/css">
         #message {
     display: none;
   background: #deedd3;
@@ -137,7 +137,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
   content: "✖";
 }
 
-        body
+		body
 {
     font-size: 20px;
     font-family: 'Arial';
@@ -166,7 +166,7 @@ a
     color: #7cc278;
 }
 
-    </style>
+	</style>
 }
 </head>
 <body>
